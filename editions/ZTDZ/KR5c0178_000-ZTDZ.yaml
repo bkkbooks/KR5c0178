@@ -1,0 +1,25 @@
+canonical_identifier: bkk:krp/KR5c0178/ZTDZ/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 玄品録序當一太史公曰道家使人精神專一動合無形澹足萬物其爲術也因陰陽之大順采儒墨之善撮名法之要與時遷徙應物變化立俗施事無所不宜指約而易操事少而功多予嘗感激以爲豈無其人隱約而不可見使太史之論不得信於後世乃發憤求之於古人由老子而下若老子徒者采其道德文藝而類次之蓋彷彿得其人矣昔南華之叙天下道術尊孔子而不與今倣其意於是集老子不與尊之至也楊子雲曰孔子文足者也老子玄足者也因命題曰玄史寔道家之權輿博大眞人之軌轍興世立教之法則也太史公之論定雨願學焉乙亥歲秋九月十四日句曲外史張天雨序
+  hash: sha256:d78d3a57a6952a81cc2c9ecfa0b4d51e710e6a7f38566e1a08644d464ae0f857
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR5c0178_SJB_000-180097a, image: sjb/18/180097a.png}
+metadata:
+  title: 玄品錄
+  edition:
+    short: ZTDZ
+    label: 【正統道藏・三家本】
+  date: '2015-08-29 00:53:59.335114'
+  source:
+    repository: kanripo
+    path: KR5c0178/KR5c0178_000.txt
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+hash: sha256:68aee95aa99da9519a3023ce52ca862badc6e5d21c13523f36a38b045727ba8e

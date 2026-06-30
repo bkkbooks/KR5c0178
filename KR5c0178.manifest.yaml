@@ -1,0 +1,123 @@
+canonical_identifier: bkk:krp/KR5c0178/v1
+canonical_location: https://kanripo.org/bkk/KR5c0178/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 玄品錄
+  identifiers:
+    alt_id:
+    - DZ0781
+  date: '2015-08-29 00:53:59.335114'
+  source:
+    repository: kanripo
+    path: KR5c0178
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+  base_edition: HFL
+  edition:
+    short: bkk
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+editions:
+- short: HFL
+  label: 【正統道藏・涵芬樓版】
+- short: ZTDZ
+  label: 【正統道藏・三家本】
+- short: SJB
+assets:
+  parts:
+  - {seq: 0, filename: KR5c0178_000.yaml, hash: 'sha256:35576000c22d3f81b247ce80b0bcfcbb389a8e4630debfc2a5b959235356e181'}
+  - {seq: 1, filename: KR5c0178_001.yaml, hash: 'sha256:385514317899e4528e3e46495c613ca16f7eef6a0c52755e886403742d1ceb2c'}
+  - {seq: 2, filename: KR5c0178_002.yaml, hash: 'sha256:f471c7b811cd39cff5b478e8a867cc7afa5a56f7711aab775a31825a70e5b3ba'}
+  - {seq: 3, filename: KR5c0178_003.yaml, hash: 'sha256:107ebf6b99f3b2e415cc9821eaf7ee8d7d80fae2c18aa17489af4246926904c0'}
+  - {seq: 4, filename: KR5c0178_004.yaml, hash: 'sha256:950dae05c385083c91d652a1b9c507ee6ba8e2be84515806938b572665591454'}
+  - {seq: 5, filename: KR5c0178_005.yaml, hash: 'sha256:c893ac4996ec87fc9ad3f940654b3bc9e5710d74e25857664a7f869f26813de9'}
+  - {seq: 6, filename: KR5c0178_006.yaml, hash: 'sha256:0bed5ade2481414ef49e45632dfdb6e4964aadc918c5db889fcd6c086174d762'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5c0178_000.markers.yaml, hash: 'sha256:a7597984da75e8806ad180cc484b22abcbcd5f5c2572c76d69610225a14f0a5d'}
+  - {seq: 1, role: markers, filename: assets/KR5c0178_001.markers.yaml, hash: 'sha256:609c1723b7cb2b4e9bfcc1c637330ad8db49e081f262c311b73bb36a8c4a8ef2'}
+  - {seq: 2, role: markers, filename: assets/KR5c0178_002.markers.yaml, hash: 'sha256:2be6de73df7270861e4aef049e8eeb6236318413b66d47d9dbae250bce9c7d25'}
+  - {seq: 3, role: markers, filename: assets/KR5c0178_003.markers.yaml, hash: 'sha256:2e7c1f30885d1867f2bb1c4713ce8a0670e3e102440d88230804b71336c89540'}
+  - {seq: 4, role: markers, filename: assets/KR5c0178_004.markers.yaml, hash: 'sha256:681feecee319184fb2c36e9a247ebb3b85f5617909e3d5be704af605a8b1c2e6'}
+  - {seq: 5, role: markers, filename: assets/KR5c0178_005.markers.yaml, hash: 'sha256:62ae481ce38c469b258ef6fdc61eb60814ec6a1abe66893b48c10489cbe05581'}
+  - {seq: 6, role: markers, filename: assets/KR5c0178_006.markers.yaml, hash: 'sha256:f2306f2509bcfbef3edf41658f15778a82df08a2420a07589a20f7c2d35f27aa'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5c0178_HFL_000-001a
+    span:
+    - body
+    - 0
+    - 234
+  label: juan 000
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR5c0178_HFL_001-001a
+    span:
+    - body
+    - 0
+    - 6276
+  label: juan 001
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR5c0178_HFL_002-001a
+    span:
+    - body
+    - 0
+    - 8370
+  label: juan 002
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR5c0178_HFL_003-001a
+    span:
+    - body
+    - 0
+    - 8681
+  label: juan 003
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR5c0178_HFL_004-001a
+    span:
+    - body
+    - 0
+    - 9114
+  label: juan 004
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR5c0178_HFL_005-001a
+    span:
+    - body
+    - 0
+    - 1500
+  label: juan 005
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR5c0178_HFL_006-001a
+    span:
+    - body
+    - 0
+    - 5597
+  label: juan 006
+  type: section
+  level: 1
+hash: sha256:e8b443a79fad1c7b351bb3d8c69578cdfdab602c85f16f1d4ebab60db13cd629
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
